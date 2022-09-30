@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+article{
+    background-color:rgb(132, 137, 151) ;
+}
+nav{
+    background-color:rgb(27, 202, 233) ;
+}
+footer{
+    background-color: rgb(60, 80, 146);
+    
+}
